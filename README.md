@@ -6,8 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application. and i have built a chat app ui like Telegram.
 
-![Screenshot1](lib/screenshots/chat1.png)
-![Screenshot1](lib/screenshots/chat2.png)
+<img src="lib/screenshots/chat1.png" alt="Alt Text" width="400" height="100%">
+<img src="lib/screenshots/chat2.png" alt="Alt Text" width="400" height="100%">
 
 A few resources to get you started if this is your first Flutter project:
 
